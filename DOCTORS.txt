@@ -1,0 +1,6 @@
+John, Smith,Internal Med 
+Jone, Smith,Pediatrics
+Jone ,Beckham ,Cardiology
+Hyandri, Maharjan, NeuroSurgeon
+Tulak, Khadka, Vetenary
+liza, rai, Endoscopy

@@ -1,0 +1,5 @@
+Sara Smith,Jone Beckham, 20, 07012345678,B1 234, Cough
+Mike Jones, liza  rai,  37,    07555551234,   L2 2AB,    Vomitting
+Daivd Smith,John Smith, 15, 07123456789,C1 ABC,Nausea
+Sulav Ans, Tulak  Khadka,  15,  07123456789, C1 ABC, headache
+Hyandri Mogar, , 22, 6789876, 321, Leg broken
